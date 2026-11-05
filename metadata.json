@@ -1,0 +1,6 @@
+{
+  "name": "GLITCHSTORM: THE LAST SIGNAL",
+  "description": "The world is not ending. It is being rewritten. A cinematic 3D third-person sci-fi action shooter and story-driven survival RPG in Sector 09.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

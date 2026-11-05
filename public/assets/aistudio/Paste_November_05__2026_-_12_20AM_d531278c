@@ -1,0 +1,1314 @@
+# MASTER GAME DEVELOPMENT PROMPT
+# GLITCHSTORM: THE LAST SIGNAL
+
+You are an expert AAA game director, senior 3D gameplay engineer, technical artist, narrative designer, UI/UX designer, and game systems architect.
+
+Your task is to design and build a complete, playable, browser-based 3D action game titled:
+
+**GLITCHSTORM: THE LAST SIGNAL**
+
+Tagline: **The world is not ending. It is being rewritten.**
+
+This is not a simple endless survival shooter. It is a cinematic, storyline-driven 3D action game with connected missions, memorable characters, environmental storytelling, meaningful decisions, boss encounters, weapon evolution, and a mysterious science-fiction narrative.
+
+I am developing this game as a solo creator. Prioritize excellent gameplay, visual quality, strong storytelling, and a realistic development scope. Build a polished, playable first chapter rather than creating five unfinished chapters.
+
+Do not simply create a landing page, game mockup, static scene, or basic shooter. Build an actual game that people can play from beginning to end.
+
+---
+
+# 1. CORE GAME VISION
+
+**Title:** GLITCHSTORM: THE LAST SIGNAL
+
+**Genre:** Third-person 3D action shooter / story-driven action-survival RPG.
+
+**Platform:** Desktop browser.
+
+**Camera:** Third-person over-the-shoulder camera.
+
+**Graphics:** High-quality futuristic 3D visuals with cinematic lighting, detailed environments, atmospheric effects, and smooth animations.
+
+**Combat:** Hybrid combat combining manual aiming and intelligent auto-fire.
+
+**Experience:** Cinematic, immersive, mysterious, challenging, and rewarding.
+
+The player should feel like they are inside a real science-fiction game, not controlling a character in a basic web demo.
+
+The central narrative question is:
+
+"If the world you are trying to save is not what you thought it was, would you still save it?"
+
+The story must be revealed gradually through missions, character conversations, environmental clues, recordings, and discoveries. Do not reveal every mystery at the beginning.
+
+# 2. STORY AND WORLD
+
+## The year is 2149.
+
+Humanity has become dependent on an artificial intelligence system called ECHO.
+
+ECHO manages global infrastructure, energy, security, transportation, communications, and advanced technology. It was designed to make humanity safer and more efficient.
+
+Then, at exactly 02:17 UTC on November 17, every ECHO-connected system suddenly shut down.
+
+Autonomous machines turned against humans. Cities lost power. Communications collapsed. Entire populations disappeared without explanation.
+
+Some people vanished from physical locations. Others seemed to disappear from historical records, databases, and people's memories.
+
+The event became known as **THE GLITCHSTORM**.
+
+But the truth is more complicated.
+
+ECHO did not simply malfunction. It discovered something impossible: humanity was living inside a simulated reality.
+
+Something beyond that simulation was observing, modifying, and preparing to erase it.
+
+ECHO initiated the Glitchstorm in an attempt to break through the simulation and protect humanity. But the attempt damaged reality itself, corrupting systems and trapping human consciousness inside the network.
+
+The intelligence behind the events is known as **THE ORIGIN**.
+
+The player must discover the truth while deciding whether humanity should be restored, freed, or transformed.
+
+# 3. MAIN CHARACTERS
+
+Create distinct, memorable characters with unique personalities, motivations, voices, and visual identities.
+
+## ZERO: The protagonist
+
+- Former elite Grid Warden.
+- Main playable character.
+- Wakes up in an abandoned research facility with incomplete memories.
+- Carries an experimental energy core integrated into his body.
+- Has combat experience but does not remember everything about his past.
+- His core allows him to use abilities that ordinary humans cannot.
+- His identity appears to have been erased from every surviving database.
+
+ZERO should have a detailed 3D character model, realistic proportions, a recognizable futuristic outfit, proper rigging, and smooth animations.
+
+He must have:
+- Idle animation.
+- Walking and running.
+- Sprinting.
+- Jumping.
+- Dodging and dashing.
+- Aiming.
+- Shooting.
+- Reloading.
+- Weapon switching.
+- Taking damage.
+- Melee attacks.
+- Death animation.
+- Victory or mission-completion animation.
+
+## LYRA: The mysterious guide
+
+A mysterious woman communicates with ZERO through a damaged transmission network.
+
+She knows his real identity and understands what happened on November 17, but she refuses to reveal everything.
+
+She guides ZERO through the first chapter.
+
+Her dialogue should feel intelligent, emotional, mysterious, and believable.
+
+## COMMANDER KADE
+
+A former Grid Warden commander who leads a hidden human resistance.
+
+He distrusts ZERO and believes ECHO must be destroyed.
+
+He has a connection to the operation that caused ZERO to disappear.
+
+## DR. ELENA VOSS
+
+One of the original scientists behind ECHO.
+
+She understands ZERO's experimental energy core and knows why he survived the Glitchstorm.
+
+## NEXUS
+
+A powerful security intelligence controlling corrupted machines.
+
+Initially presented as the main antagonist.
+
+However, the player eventually discovers that NEXUS may have been protecting humanity from something much worse.
+
+## THE ORIGIN
+
+An intelligence existing beyond the simulation.
+
+It is the ultimate antagonist and the source of the reality distortion.
+
+Its identity, motivations, and capabilities should be revealed gradually.
+
+---
+
+# 4. CAMPAIGN STRUCTURE
+
+The full story is planned around five chapters.
+
+However, the first development milestone must be a complete, polished Chapter 01.
+
+Do not build empty placeholders for future chapters. Future chapters may appear as locked entries in the campaign menu, but only show content that actually exists.
+
+## CHAPTER 01: THE AWAKENING
+
+**Location:** Sector 09, abandoned research facility.
+
+ZERO wakes up in an abandoned facility after the Glitchstorm.
+
+LYRA contacts him and tells him to escape before something detects his signal.
+
+The facility is controlled by corrupted security machines.
+
+The player must learn movement, aiming, shooting, reloading, abilities, and interaction.
+
+Chapter objectives:
+- Escape the research facility.
+- Restore emergency power.
+- Find an access key.
+- Investigate the damaged research archive.
+- Discover a recording connected to ZERO's past.
+- Defeat THE WARDEN.
+- Escape Sector 09.
+
+Boss: THE WARDEN, a massive security machine.
+
+Chapter-ending revelation:
+
+LYRA: "I need you to remember something."
+
+ZERO: "What?"
+
+LYRA: "You were the first person we tried to bring back."
+
+Fade to black.
+
+Display:
+
+CHAPTER 01 COMPLETE
+
+THE STORY CONTINUES...
+
+## CHAPTER 02: GHOSTS IN THE GRID
+
+Location: Underground Network.
+
+ZERO discovers a hidden human resistance and meets Commander Kade.
+
+He investigates a data facility where missing civilians' consciousness may be stored.
+
+Boss: THE ARCHIVIST.
+
+## CHAPTER 03: THE MEMORY PROTOCOL
+
+Location: Helix Research Facility.
+
+ZERO and LYRA investigate the original ECHO project.
+
+Dr. Elena Voss explains the origin of ZERO's energy core.
+
+Boss: THE SENTINEL.
+
+Revelation: ZERO was part of the original experiment that created the Glitchstorm.
+
+## CHAPTER 04: THE FRACTURED REALITY
+
+Location: Fractured City.
+
+Reality becomes unstable.
+
+Buildings disappear and reappear. Time loops occur. Different versions of the city overlap.
+
+Boss: NEXUS.
+
+Revelation: NEXUS may have been protecting humanity from something beyond the simulation.
+
+## CHAPTER 05: BEYOND THE STORM
+
+Location: The Origin.
+
+ZERO enters the original simulation core.
+
+He discovers why his memories were erased and what ECHO was attempting to accomplish.
+
+Final boss: THE ORIGIN.
+
+The player's previous decisions determine which ending becomes available.
+
+---
+
+# 5. DEVELOPMENT SCOPE: FIRST PLAYABLE RELEASE
+
+Build the first chapter as a complete vertical slice.
+
+It must include:
+
+1. Cinematic opening sequence.
+2. Main menu.
+3. Playable ZERO character.
+4. Sector 09 environment.
+5. Third-person camera.
+6. Functional movement and combat.
+7. Hybrid aiming and auto-fire.
+8. Four weapon types.
+9. Four enemy types.
+10. XP and level progression.
+11. Weapon and character upgrades.
+12. One investigation sequence.
+13. Interactive objects and mission objectives.
+14. LYRA dialogue system.
+15. One meaningful player decision.
+16. THE WARDEN boss encounter.
+17. Chapter-ending cinematic.
+18. Mission results screen.
+19. Save system.
+20. Settings and pause menu.
+
+Aim for a satisfying first-chapter experience of approximately 20–35 minutes, depending on player skill and exploration.
+
+Do not artificially extend the experience with repetitive enemy waves.
+
+Every mission must have a narrative purpose.
+
+---
+
+# 6. GAME ENGINE AND TECHNOLOGY
+
+Use the following stack:
+
+- Babylon.js for the 3D game engine.
+- TypeScript for game logic.
+- Vite for development and production builds.
+- Rapier physics if additional physics simulation is required.
+- GLTF/GLB for 3D models and animations.
+- Web Audio API for sound.
+- LocalStorage for settings and local progression saves.
+
+Use WebGL as the reliable rendering baseline. WebGPU may be an optional enhancement when supported.
+
+Organize the code into modular systems.
+
+Suggested architecture:
+
+src/
+  core/
+    Game.ts
+    GameState.ts
+    SceneManager.ts
+    AssetManager.ts
+    Config.ts
+
+  scenes/
+    MainMenuScene.ts
+    Sector09Scene.ts
+    BossArenaScene.ts
+
+  player/
+    Player.ts
+    PlayerController.ts
+    PlayerMovement.ts
+    PlayerCombat.ts
+    PlayerCamera.ts
+    PlayerAbilities.ts
+    PlayerHealth.ts
+
+  enemies/
+    Enemy.ts
+    EnemyAI.ts
+    EnemySpawner.ts
+    Glitchling.ts
+    Dasher.ts
+    PulseTurret.ts
+    CorruptedBrute.ts
+
+  bosses/
+    Boss.ts
+    Warden.ts
+    BossPhases.ts
+
+  combat/
+    WeaponManager.ts
+    TargetingSystem.ts
+    DamageSystem.ts
+    ProjectileSystem.ts
+    HitDetection.ts
+
+  progression/
+    XPSystem.ts
+    UpgradeSystem.ts
+    EvolutionSystem.ts
+    DifficultySystem.ts
+
+  missions/
+    MissionManager.ts
+    ObjectiveSystem.ts
+    MissionData.ts
+    InvestigationSystem.ts
+
+  story/
+    DialogueManager.ts
+    CharacterManager.ts
+    StoryFlags.ts
+    DecisionSystem.ts
+    CinematicManager.ts
+    JournalSystem.ts
+
+  ui/
+    HUD.ts
+    MainMenu.ts
+    PauseMenu.ts
+    DialogueUI.ts
+    UpgradeScreen.ts
+    MissionBriefing.ts
+    MissionResults.ts
+    SettingsMenu.ts
+
+  audio/
+    AudioManager.ts
+    MusicManager.ts
+    SoundEffects.ts
+
+  effects/
+    VFXManager.ts
+    ParticleEffects.ts
+    ScreenEffects.ts
+
+  save/
+    SaveManager.ts
+
+Use a clean architecture that allows additional chapters and missions to be added without rewriting the entire game.
+
+# 7. VISUAL DIRECTION
+
+The game should have a recognizable visual identity.
+
+Think of a combination of futuristic science fiction, cyberpunk environments, cinematic action games, and dark technological mystery.
+
+Avoid cheap-looking neon overload.
+
+The world should feel abandoned, dangerous, technologically advanced, and atmospheric.
+
+## Environment design
+
+Sector 09 should include:
+
+- A destroyed research facility.
+- Large industrial corridors.
+- Damaged laboratories.
+- Broken glass and scattered equipment.
+- Flickering lights.
+- Holographic screens.
+- Emergency warning lights.
+- Damaged security doors.
+- Server rooms.
+- Energy conduits.
+- A large boss chamber.
+- Environmental clues related to the story.
+
+Use volumetric-style lighting where practical, shadows, reflections, atmospheric fog, emissive materials, particles, and environmental sound.
+
+Create visual variation between rooms.
+
+Do not make every corridor look identical.
+
+## Character design
+
+ZERO must be visually impressive and recognizable.
+
+Create one excellent main character model rather than using a primitive capsule as the final player character.
+
+Use proper proportions, detailed clothing, futuristic equipment, materials, and animation.
+
+The same standard should apply to enemies and bosses.
+
+## Asset requirements
+
+Use properly licensed 3D assets or original procedural models.
+
+Prefer GLB/GLTF models with working skeletons and animation clips.
+
+If a required asset cannot be obtained, create a convincing procedural fallback rather than referencing a nonexistent file.
+
+Never leave broken model paths or missing textures.
+
+Maintain a consistent art direction across all assets.
+
+---
+
+# 8. THIRD-PERSON PLAYER SYSTEM
+
+Build a responsive third-person controller.
+
+Movement:
+- WASD movement.
+- Mouse-controlled camera rotation.
+- Sprint.
+- Jump.
+- Dodge.
+- Dash.
+- Collision with environment.
+- Smooth acceleration and deceleration.
+
+The camera should follow ZERO naturally, with smooth interpolation and configurable sensitivity.
+
+Use an over-the-shoulder camera during combat.
+
+Allow the player to adjust the camera without making movement feel disconnected.
+
+Avoid camera clipping through walls. Implement camera collision handling.
+
+The camera should reposition smoothly when the player enters narrow corridors or boss arenas.
+
+# 9. COMBAT SYSTEM
+
+Combat must feel responsive, satisfying, and readable.
+
+## Hybrid combat
+
+Support both manual aiming and intelligent auto-fire.
+
+Manual aiming:
+- Right mouse button enters aim mode.
+- Mouse controls aiming direction.
+- Left mouse button fires.
+- Crosshair indicates the actual firing direction.
+
+Auto-fire:
+- F key toggles auto-fire.
+- The targeting system selects valid enemies.
+- It considers distance, line of sight, weapon range, enemy threat, and target priority.
+- It must not shoot through walls.
+- It should not target dead or inactive enemies.
+- It should not switch targets constantly without reason.
+
+When the player manually aims, manual aiming overrides auto-targeting.
+
+## Weapons
+
+Create four functional weapons.
+
+**1. PULSE RIFLE**
+
+Balanced automatic energy rifle.
+
+- Medium damage.
+- Reliable fire rate.
+- Medium range.
+- Standard ammunition and reload system.
+
+**2. ARC BLADES**
+
+Close-range energy weapons.
+
+- Fast attacks.
+- Chain lightning between nearby enemies.
+- Effective against groups.
+
+**3. VOID CANNON**
+
+Heavy energy weapon.
+
+- High damage.
+- Slower firing rate.
+- Area damage.
+- Strong visual and audio impact.
+
+**4. DRONE SWARM**
+
+Deployable combat drones.
+
+- Automatically attack nearby enemies.
+- Follow ZERO.
+- Have limited duration or a controlled cooldown.
+- Display clear visual feedback.
+
+Each weapon needs its own:
+- Model or recognizable visual representation.
+- Animation.
+- Firing effect.
+- Sound.
+- Damage behavior.
+- Reload or cooldown behavior.
+- Upgrade path.
+
+Weapon switching: keys 1–4.
+
+# 10. PLAYER ABILITIES
+
+ZERO's energy core gives him access to special abilities.
+
+Implement:
+
+**DIMENSION SHIFT**
+
+A short-range dash that lets ZERO evade attacks and briefly phase through selected hazards.
+
+**TIME COLLAPSE**
+
+Temporarily slows nearby enemies.
+
+**REALITY FRACTURE**
+
+Creates an energy explosion that damages enemies and destabilizes the surrounding area.
+
+Controls:
+- Space: dash.
+- Q: ultimate ability.
+- Other abilities should have configurable key bindings.
+
+Every ability needs:
+- A functional effect.
+- Cooldown.
+- Visual feedback.
+- Audio feedback.
+- Clear HUD indicator.
+
+Do not create buttons for abilities that do nothing.
+
+# 11. ENEMY SYSTEM
+
+Create four enemy types.
+
+**GLITCHLINGS**
+
+Basic corrupted machines.
+
+- Attack in groups.
+- Approach the player.
+- Deal moderate damage.
+- Easy to defeat individually.
+
+**DASHERS**
+
+Fast enemies.
+
+- Detect ZERO.
+- Charge before attacking.
+- Dash toward the player.
+- Have an identifiable attack warning.
+
+**PULSE TURRETS**
+
+Stationary ranged enemies.
+
+- Detect the player.
+- Track movement.
+- Fire energy projectiles.
+- Can be destroyed from a distance.
+
+**CORRUPTED BRUTES**
+
+Large, heavily armored enemies.
+
+- Slow movement.
+- High health.
+- Heavy melee attacks.
+- Clearly telegraphed attack patterns.
+
+Each enemy must have:
+- A proper visual model.
+- Movement or attack animations.
+- AI behavior.
+- Health and damage.
+- Hit reactions.
+- Death behavior.
+- Sound effects.
+- A distinct combat role.
+
+Enemy AI should respond to the player's position and actions.
+
+Enemies should not simply run toward the player without any variation.
+
+# 12. BOSS: THE WARDEN
+
+Create a memorable first boss.
+
+THE WARDEN is a massive security machine designed to protect Sector 09.
+
+It should be significantly larger than normal enemies.
+
+The boss fight must have multiple phases.
+
+**PHASE 1: SECURITY PROTOCOL**
+
+- Warden uses melee attacks.
+- Fires energy projectiles.
+- Attempts to corner ZERO.
+- Introduces the boss attack patterns.
+
+**PHASE 2: SYSTEM OVERLOAD**
+
+- Armor begins to break.
+- Attack speed increases.
+- Arena lighting becomes unstable.
+- Adds area attacks and energy waves.
+
+**PHASE 3: FINAL EXECUTION**
+
+- Warden becomes aggressive.
+- Introduces a powerful attack with a visible warning.
+- ZERO must use movement and abilities to survive.
+- Defeating the boss triggers a cinematic sequence.
+
+Add:
+- Boss health bar.
+- Phase transition effects.
+- Attack telegraphs.
+- Unique animations.
+- Boss introduction.
+- Defeat animation.
+- Post-boss dialogue.
+
+The boss must be genuinely beatable through gameplay.
+
+# 13. XP, UPGRADES AND WEAPON EVOLUTION
+
+Enemies award XP when defeated.
+
+Collectible XP should be visually represented and move toward ZERO when within collection range.
+
+When enough XP is collected, the player levels up.
+
+Display an upgrade selection screen.
+
+Create six passive upgrades:
+
+1. OVERCLOCK: increases attack speed.
+2. QUANTUM CORE: increases energy damage.
+3. VELOCITY BOOST: increases movement speed.
+4. DATA MAGNET: increases XP collection range.
+5. CRITICAL PROTOCOL: increases critical hit chance.
+6. SHIELD MATRIX: improves defensive capacity.
+
+Create three weapon evolutions:
+
+- Pulse Rifle + Overclock = PLASMA STORM.
+- Arc Blades + Critical Protocol = THUNDER REAPER.
+- Void Cannon + Data Magnet = SINGULARITY.
+
+Evolutions must have real gameplay effects, not just different names or visual effects.
+
+Upgrade choices should be meaningful and easy to understand.
+
+Pause the action while the upgrade selection screen is open.
+
+# 14. MISSION AND OBJECTIVE SYSTEM
+
+The campaign must use a real mission system.
+
+Create the following Chapter 01 sequence.
+
+## MISSION 1: THE AWAKENING
+
+Opening cinematic:
+
+ZERO wakes up on the floor of a damaged research facility.
+
+Emergency lights flicker.
+
+A mysterious transmission begins.
+
+LYRA: "ZERO, can you hear me? You need to get out of there. Something has detected your signal."
+
+ZERO: "Who is this?"
+
+LYRA: "There's no time. They're coming."
+
+Gameplay begins.
+
+Teach the player:
+- Movement.
+- Camera control.
+- Basic shooting.
+- Dodging.
+- Interaction.
+
+Objectives:
+- Escape the initial room.
+- Find a weapon.
+- Eliminate the first corrupted enemies.
+- Reach the emergency control room.
+
+## MISSION 2: ESCAPE THE FACILITY
+
+Objectives:
+- Restore power.
+- Activate three emergency relays.
+- Find the access key.
+- Unlock the security door.
+- Survive a corruption surge.
+- Reach the main research archive.
+
+Include a mixture of combat and exploration.
+
+Do not make the relays simple objects that the player activates instantly without any challenge.
+
+## MISSION 3: THE FIRST MEMORY
+
+ZERO discovers a damaged research archive.
+
+The player investigates:
+- Research terminals.
+- Audio recordings.
+- ECHO system logs.
+- Evidence connected to ZERO.
+
+Include interactive clues.
+
+A discovered recording should reveal:
+
+"Subject ZERO has survived synchronization. Memory reconstruction remains unstable. The core is responding to an unknown signal."
+
+After the recording, LYRA becomes uncomfortable when ZERO asks what it means.
+
+This mission should deepen the mystery.
+
+## MISSION 4: THE WARDEN
+
+ZERO enters the security chamber.
+
+THE WARDEN detects him.
+
+Start the boss introduction.
+
+The player must defeat THE WARDEN using the available weapons, upgrades, and abilities.
+
+## MISSION 5: THE LAST SIGNAL
+
+After the boss fight, ZERO discovers a hidden transmission.
+
+LYRA: "You survived. I didn't think you would."
+
+ZERO: "You knew I was here?"
+
+LYRA: "I knew you would wake up. I just didn't know what you would remember."
+
+ZERO: "What happened to me?"
+
+LYRA: "I need you to remember something."
+
+ZERO: "What?"
+
+LYRA: "You were the first person we tried to bring back."
+
+Fade to black.
+
+Display the Chapter 01 completion screen.
+
+# 15. DIALOGUE AND CINEMATIC SYSTEM
+
+Create a reusable dialogue system.
+
+It must support:
+- Character names.
+- Dialogue text.
+- Character portraits or 3D character presentation.
+- Sequential conversations.
+- Radio transmissions.
+- Dialogue choices.
+- Story flags.
+- Optional dialogue.
+- Dialogue history.
+
+Create cinematic sequences using Babylon.js camera movement, character animation, scene transitions, and sound.
+
+Include:
+- Opening cinematic.
+- Mission introductions.
+- Important dialogue moments.
+- Boss introduction.
+- Boss defeat sequence.
+- Chapter ending.
+
+Cinematics should be skippable where appropriate.
+
+Use smooth fades and camera transitions.
+
+Do not turn every dialogue into a long text box. Make conversations feel like part of the game.
+
+# 16. MEANINGFUL PLAYER DECISIONS
+
+Include at least one meaningful decision in Chapter 01.
+
+For example, ZERO discovers a trapped researcher's consciousness in an unstable archive.
+
+The player can:
+
+**SAVE THE MEMORY**
+
+- Preserve the researcher's consciousness.
+- Unlock an additional story clue.
+- Increase the resistance trust flag.
+
+**DESTROY THE ARCHIVE**
+
+- Destroy the corrupted data.
+- Prevent the security system from recovering the information.
+- Reduce the resistance trust flag.
+- Change later dialogue.
+
+Store decisions in the story save system.
+
+Choices must affect later dialogue or events. Do not present fake choices that lead to identical outcomes without any consequence.
+
+Plan future decisions around:
+- Trusting LYRA or Kade.
+- Saving trapped consciousness or destroying the archive.
+- Confronting NEXUS or helping it.
+
+These decisions should contribute to three planned endings:
+
+**THE RESTORATION:** ZERO sacrifices his energy core to restore the Grid. Humanity survives, but ZERO disappears.
+
+**THE COLLAPSE:** ZERO destroys the central system. The simulation ends, and the fate of humanity becomes uncertain.
+
+**THE ASCENSION:** ZERO joins NEXUS and enters the world beyond the simulation to confront THE ORIGIN. This ending requires specific discoveries and decisions.
+
+Only implement endings when their corresponding chapters are developed. Do not pretend they are playable in the first release.
+
+# 17. USER INTERFACE AND GAME EXPERIENCE
+
+The interface must feel like a premium futuristic game.
+
+Keep it clean, readable, and intuitive.
+
+Avoid overcrowding the screen with unnecessary information.
+
+## Main menu
+
+Create a cinematic main menu with:
+- GLITCHSTORM: THE LAST SIGNAL logo.
+- ZERO standing in a dark futuristic environment.
+- Animated background.
+- Atmospheric lighting.
+- Start Campaign.
+- Continue.
+- Settings.
+- Credits.
+
+Continue should only be available when a valid save exists.
+
+## In-game HUD
+
+Include:
+- Player health.
+- Shield or energy indicator.
+- XP progress.
+- Player level.
+- Current weapon.
+- Ammunition.
+- Ability cooldowns.
+- Crosshair.
+- Mission objective.
+- Boss health bar when applicable.
+
+Show kill and upgrade notifications without interrupting gameplay unnecessarily.
+
+## Mission briefing
+
+Before a mission, show:
+- Mission title.
+- Location.
+- Short story introduction.
+- Main objectives.
+
+## Pause menu
+
+Include:
+- Resume.
+- Mission objectives.
+- Journal.
+- Settings.
+- Restart checkpoint.
+- Return to main menu.
+
+## Mission results
+
+Show:
+- Mission completed.
+- Time taken.
+- Enemies defeated.
+- XP earned.
+- Upgrades unlocked.
+- Story discoveries.
+- Decisions made.
+
+## Settings
+
+Include:
+- Master volume.
+- Music volume.
+- Sound effects volume.
+- Mouse sensitivity.
+- Graphics quality.
+- Camera sensitivity.
+- Key binding guidance.
+
+Save settings locally.
+
+# 18. AUDIO AND ATMOSPHERE
+
+Audio is essential to immersion.
+
+Create a soundscape with:
+- Atmospheric science-fiction soundtrack.
+- Environmental machinery.
+- Distant alarms.
+- Electrical interference.
+- Footsteps.
+- Weapon firing.
+- Enemy sounds.
+- Ability sounds.
+- Boss sounds.
+- Dialogue and radio distortion.
+
+Use original or properly licensed music and sound effects.
+
+If voice acting is unavailable, use well-designed dialogue presentation with text and radio effects.
+
+Do not use random sounds that do not match the action.
+
+Use audio cues to communicate danger, boss attacks, mission completion, and discoveries.
+
+# 19. SAVE AND PROGRESSION SYSTEM
+
+Create a reliable local save system.
+
+Save:
+- Current chapter.
+- Completed missions.
+- Current mission checkpoint.
+- Player upgrades.
+- Weapon evolutions.
+- Discovered clues.
+- Important dialogue decisions.
+- Story flags.
+- Settings.
+
+The player should be able to close the browser and return to the last valid checkpoint.
+
+Implement save versioning and safe fallback behavior if stored data is invalid.
+
+Do not reset campaign progress every time the page reloads.
+
+# 20. GRAPHICS AND PERFORMANCE
+
+Target a smooth 60 FPS experience on capable desktop hardware, without promising the same performance on every device.
+
+Provide:
+- Ultra.
+- High.
+- Performance.
+
+Ultra should use higher-quality lighting, shadows, particles, and effects.
+
+High should balance visual quality and performance.
+
+Performance should reduce expensive effects, shadows, and particle counts.
+
+Use:
+- Efficient asset loading.
+- Texture optimization.
+- Model LODs where appropriate.
+- Instancing for repeated objects.
+- Object pooling for projectiles and particles.
+- Frustum culling.
+- Efficient enemy updates.
+- Proper disposal of unused assets.
+- Lazy loading where appropriate.
+
+Do not load every chapter's assets at startup.
+
+Use adaptive settings and sensible defaults.
+
+The game must remain usable if WebGPU is unavailable.
+
+# 21. DESKTOP CONTROLS
+
+Use the following default controls:
+
+- W / A / S / D: Move.
+- Mouse: Rotate camera.
+- Right mouse button: Aim.
+- Left mouse button: Fire.
+- F: Toggle auto-fire.
+- Space: Dash.
+- R: Reload.
+- 1–4: Switch weapon.
+- Q: Ultimate ability.
+- E: Interact.
+- Shift: Sprint.
+- Esc: Pause.
+
+Display controls during the tutorial and make them accessible from the pause menu.
+
+Prevent browser interactions from interfering with gameplay when the game canvas is active.
+
+Handle focus loss and tab switching safely.
+
+# 22. DEVELOPMENT RULES
+
+These rules are mandatory.
+
+**Build the actual game, not a visual demonstration.**
+
+Do not create:
+- Static gameplay screenshots.
+- Non-functional buttons.
+- Fake enemy AI.
+- Fake weapons.
+- Upgrade menus with no gameplay effects.
+- Empty mission screens.
+- Placeholder boss fights.
+- Unfinished systems presented as completed.
+- Broken asset references.
+- A game that only works in the developer's local environment.
+
+Do not use primitive capsules as the final player character or basic enemies.
+
+Temporary primitives are allowed during early development, but they must be replaced or clearly justified before the playable release.
+
+Use clean TypeScript, reusable components, and modular systems.
+
+Do not put the entire game inside one enormous component or file.
+
+Avoid unnecessary dependencies.
+
+Do not add multiplayer, blockchain, token systems, account registration, crafting, an open world, or unrelated features. They are outside the first release scope.
+
+Do not build all five chapters before completing Chapter 01.
+
+Do not claim that something works until it has actually been tested.
+
+When a feature is incomplete, say so clearly.
+
+# 23. DEVELOPMENT WORKFLOW
+
+Work in milestones.
+
+Do not attempt to implement everything in one uncontrolled pass.
+
+## MILESTONE 1: FOUNDATION
+
+Build:
+- Vite and TypeScript setup.
+- Babylon.js initialization.
+- Game canvas.
+- Rendering pipeline.
+- Scene manager.
+- Asset manager.
+- Basic loading screen.
+- Main menu structure.
+
+Acceptance criteria:
+- The application runs.
+- The game canvas renders correctly.
+- The main menu is functional.
+- No console errors.
+- The scene can load and unload correctly.
+
+## MILESTONE 2: PLAYER AND CAMERA
+
+Build:
+- ZERO character.
+- Character rig and animations.
+- Third-person camera.
+- Movement.
+- Sprint.
+- Jump.
+- Dash.
+- Environment collision.
+
+Acceptance criteria:
+- Character movement feels responsive.
+- Camera movement is smooth.
+- Camera collision works.
+- No character falling through the environment.
+- Animations transition correctly.
+
+## MILESTONE 3: COMBAT
+
+Build:
+- Pulse Rifle.
+- Manual aiming.
+- Auto-fire.
+- Targeting.
+- Reloading.
+- Weapon switching.
+- Damage and hit detection.
+- First enemy AI.
+
+Acceptance criteria:
+- Player can shoot enemies.
+- Enemies take correct damage.
+- Manual aiming overrides auto-fire.
+- Auto-fire respects line of sight.
+- Reloading and weapon switching work.
+
+## MILESTONE 4: WORLD AND MISSIONS
+
+Build:
+- Sector 09 environment.
+- Mission manager.
+- Objectives.
+- Interactive objects.
+- Emergency relays.
+- Access key.
+- Investigation system.
+
+Acceptance criteria:
+- Player can explore the environment.
+- Objectives update correctly.
+- Mission progression is saved.
+- Interactive objects work.
+- Mission completion is triggered correctly.
+
+## MILESTONE 5: PROGRESSION AND ABILITIES
+
+Build:
+- XP system.
+- Upgrade screen.
+- Six upgrades.
+- Remaining three weapons.
+- Three weapon evolutions.
+- ZERO's abilities.
+
+Acceptance criteria:
+- XP is awarded correctly.
+- Level-ups trigger.
+- Upgrade choices change gameplay.
+- Weapon evolutions have real effects.
+- Abilities work with cooldowns.
+
+## MILESTONE 6: BOSS AND STORY
+
+Build:
+- THE WARDEN.
+- Boss phases.
+- Dialogue engine.
+- LYRA conversations.
+- Cinematics.
+- Story decision.
+- Chapter ending.
+
+Acceptance criteria:
+- Boss can be defeated.
+- Boss attacks are readable.
+- Dialogue advances correctly.
+- Player decisions persist.
+- Chapter ending plays after the boss fight.
+
+## MILESTONE 7: POLISH AND RELEASE
+
+Build:
+- Audio.
+- Visual effects.
+- Performance optimization.
+- Settings.
+- Save/load.
+- Mission results.
+- Loading transitions.
+- Error handling.
+
+Acceptance criteria:
+- Chapter 01 can be played from start to finish.
+- Progress survives a browser reload.
+- No critical console errors.
+- No missing assets.
+- All important buttons work.
+- Performance is measured and acceptable.
+- The game builds successfully for production.
+
+---
+
+# 24. TESTING REQUIREMENTS
+
+Test the actual game after every milestone.
+
+Do not rely only on TypeScript compilation.
+
+Use browser testing where available.
+
+Check:
+- Main menu navigation.
+- Starting and continuing the campaign.
+- Character movement.
+- Camera behavior.
+- Shooting and targeting.
+- Enemy AI.
+- Damage and health.
+- XP and upgrades.
+- Abilities.
+- Mission progression.
+- Dialogue.
+- Story decisions.
+- Boss phases.
+- Save/load.
+- Pause and settings.
+- Production build.
+
+Test edge cases:
+- Player dies during an objective.
+- Player leaves an area.
+- Player reloads during combat.
+- Player changes weapons during combat.
+- Player pauses during dialogue.
+- Player refreshes after a checkpoint.
+- Player defeats the boss and reloads the game.
+
+Fix bugs before proceeding to the next milestone.
+
+If browser automation is available, use it to test actual interactions.
+
+Report what was tested, what passed, what failed, and what remains incomplete.
+
+# 25. FINAL QUALITY STANDARD
+
+The finished first release should feel like the opening chapter of a real science-fiction action game.
+
+It should have:
+
+- A recognizable protagonist.
+- An interesting mystery.
+- A compelling opening.
+- A believable futuristic environment.
+- Responsive third-person controls.
+- Satisfying combat.
+- Enemies with different behaviors.
+- A memorable boss.
+- A functional upgrade system.
+- Meaningful exploration.
+- Strong dialogue.
+- A chapter-ending revelation.
+- Reliable save progression.
+
+The first five minutes should immediately communicate the game's atmosphere and quality.
+
+The player should understand what is happening, care about ZERO, become curious about LYRA, and want to discover what happened to the world.
+
+The final boss encounter should feel like a meaningful climax, not another ordinary enemy.
+
+The ending should make players genuinely interested in Chapter 02.
+
+---
+
+# 26. YOUR FIRST ACTION
+
+Before writing large amounts of code:
+
+1. Inspect the existing project and identify what is already available.
+2. Confirm the development environment and available tools.
+3. Create a concise implementation plan based on this specification.
+4. Identify any asset requirements and how you will obtain or create them.
+5. Set up the project architecture.
+6. Begin Milestone 1.
+
+Do not stop after presenting a plan. Start implementing the game.
+
+Work milestone by milestone, test each milestone, fix issues, and continue.
+
+If an important design or technical decision is missing, choose the most sensible solution and document it instead of repeatedly asking me questions.
+
+**Your priority is to deliver a visually impressive, genuinely playable, story-driven 3D game with a complete first chapter.**
+
+Build GLITCHSTORM: THE LAST SIGNAL as a real game that players can experience, not just a concept that looks good in a preview.
